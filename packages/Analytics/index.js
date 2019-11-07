@@ -20,7 +20,7 @@ const checkMessage = compose(
   isMoreOrEqualThenZero,
   findIndex44
 );
-console.log('analytics run');
+console.log('analytics run 2');
 
 console.log(checkMessage(arr));
 
