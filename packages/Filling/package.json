@@ -1,6 +1,6 @@
 {
   "name": "filling",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "analytics": "^1.0.0",
+    "analytics": "^1.0.1",
     "lodash": "^4.17.15",
-    "recognition": "^1.0.0"
+    "recognition": "^1.0.1"
   }
 }
