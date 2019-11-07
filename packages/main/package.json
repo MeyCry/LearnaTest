@@ -1,6 +1,6 @@
 {
   "name": "main",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "license": "ISC",
   "gitHead": "174bf379dbaa7947fb95b226a85ee1ef3aad9e81",
   "dependencies": {
-    "filling": "^0.0.1",
-    "recognition": "^0.0.1"
+    "filling": "^0.0.2",
+    "recognition": "^0.0.2"
   }
 }
