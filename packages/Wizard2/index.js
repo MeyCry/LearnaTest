@@ -1,4 +1,4 @@
-
+console.log('wizard run');
 class Wizard2 {
   constructor() {
     console.log('init w2');
