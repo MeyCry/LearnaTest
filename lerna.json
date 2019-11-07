@@ -2,6 +2,11 @@
   "packages": [
     "packages/**/*"
   ],
+  "command": {
+    "version": {
+      "push": false
+    }
+  },
   "npmClient": "npm",
   "version": "0.0.1"
 }
