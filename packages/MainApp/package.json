@@ -10,7 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "analytics": "^1.0.3",
+    "analytics1": "npm:analytics@^1.0.1",
     "filling": "^1.0.3",
+    "filling1": "npm:filling@^1.0.1",
     "wizard2": "^1.0.1"
   }
 }
