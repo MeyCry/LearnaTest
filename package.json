@@ -2,7 +2,7 @@
   "name": "learnatest",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "stats": "npx webpack --json --profile > stats.json && open 'http://webpack.github.io/analyse/'",
     "file-size": "npx webpack --profile --json > stats.json && npx webpack-bundle-analyzer stats.json"
