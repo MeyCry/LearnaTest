@@ -8,5 +8,9 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "analytics": "^1.0.0",
+    "filling": "^1.0.0",
+    "wizard2": "^1.0.0"
+  }
 }
