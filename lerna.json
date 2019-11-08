@@ -7,7 +7,7 @@
   "command": {
     "publish": {
       "message": "chore(release): publish",
-      "registry": "http://localhost:4873/"
+      "registry": "http://verdaccio.10.54.2.19.xip.io/"
     }
   }
 }
