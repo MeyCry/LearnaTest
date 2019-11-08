@@ -3,7 +3,7 @@ const _ = require('lodash');
 const arr = [1, 6, 3, 6, 44, 2];
 
 function findIndex44(arr) {
-  return _.findIndex(arr, item => item === 44);
+  return _.findIndex(arr, item => item === 22);
 }
 
 function isMoreOrEqualThenZero(num) {
