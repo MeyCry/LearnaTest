@@ -1,6 +1,6 @@
 {
   "name": "recognition",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,5 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "sha1": "^1.1.1"
   }
 }
