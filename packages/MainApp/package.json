@@ -1,6 +1,6 @@
 {
   "name": "mainapp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "analytics": "^1.0.0",
-    "filling": "^1.0.0",
-    "wizard2": "^1.0.0"
+    "analytics": "^1.0.1",
+    "filling": "^1.0.1",
+    "wizard2": "^1.0.1"
   }
 }
